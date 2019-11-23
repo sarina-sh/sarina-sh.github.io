@@ -2,7 +2,7 @@
 layout: posts
 title: اشعار زیبا 
 ---
-![an image alt twxt]({{https://sarina-sh.github.io/}}sarina-sh.github.io\assets\images)
+![an image alt twxt]({{https://sarina-sh.github.io/}}assets\images)
 
         غمی غمناک/
 
