@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /tools/
-title: My Favorite Tools
+title: my hobbies
 tags: [tools, favorite]
 modified: 11-02-2019
 comments: true

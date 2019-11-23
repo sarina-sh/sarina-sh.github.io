@@ -2,9 +2,9 @@
 layout: posts
 title: اشعار زیبا 
 ---
-![an image alt twxt]({{https://sarina-sh.github.io/}}assets\images)
+![an image alt twxt]({{https://sarina-sh.github.io/}}https://github.com/sarina-sh/sarina-sh.github.io/blob/master/assets/images/1.jpg)
 
-        غمی غمناک/
+        غمی غمناک
 
 نیست رنگی که بگوید با من/
 
