@@ -1,18 +1,30 @@
 ---
 layout: posts
-title: NLP Reading Group
+title:اشعار زیبا 
 ---
+![an image alt twxt]({{https://sarina-sh.github.io/}})
 
-Our NLP Reading group is starting this week. Here is the agenda:
-- *[Zahra Sayedi](https://www.linkedin.com/in/zahra-sayedi-14389243/)* will present [Neural Approaches to Conversational AI](https://dl.acm.org/citation.cfm?id=3210183). 
-- *[Mahdi Lotfi](https://www.linkedin.com/in/mahdi-lotfi-bidhendi72/)* will give us an overview of [BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and finally 
-- *[Majid Zarharan](https://www.linkedin.com/in/majid-zarharan/)* will give us an overview of recent research and trends on Fake News and Fact Checking. 
+        غمی غمناک
 
----
-**Time**: Wednesday April 24th 3:30-5pm  
-**Location**: We don't have a place reserved yet. We will meet in my office at 3:30pm and go from there.
+نیست رنگی که بگوید با من
 
----
-The reading group is open to all.
+اندکی صبر، سحر نزدیک است
+
+هر دم این بانگ برآرم از دل:
+
+وای، این شب چقدر تاریک است!
+
+خنده‌ای کو که به دل انگیزم؟
+
+قطره‌ای کو که به دریا ریزم؟
+
+صخره‌ای کو که بدان آویزم؟
+
+مثل این است که شب نمناک است
+
+دیگران را هم غم هست به دل،
+
+غم من، لیک، غمی غمناک است
+              سهراب سپهری 
 
 ---
