@@ -11,7 +11,9 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "my hobbies"
-    url: /tools/
+    url: /myhobbies/
+  - title: "course website"
+    url: /coursewebsite/  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
