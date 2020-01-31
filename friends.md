@@ -1,9 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /students/
+permalink: /friends/
 title: Current and past friends
-tags: [students]
 modified: 4-10-2019
 comments: true
 ---
