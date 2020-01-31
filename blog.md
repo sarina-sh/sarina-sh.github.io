@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: blog-post
 author_profile: true
 permalink: /blog/
 title: Blog
@@ -9,9 +9,4 @@ comments: true
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
 
