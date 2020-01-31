@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /coursewebsite/
-title: Current and past friends
+title: course website
 tags: [coursewebsite]
 modified: 4-10-2019
 comments: true
